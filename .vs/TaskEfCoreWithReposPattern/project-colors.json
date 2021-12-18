@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00d547cc-428c-42e0-b5ef-d58fa0a4350a": {
+      "ProjectGuid": "00d547cc-428c-42e0-b5ef-d58fa0a4350a",
+      "DisplayName": "TaskEfCoreWithReposPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
